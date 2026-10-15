@@ -1,0 +1,5 @@
+rev A - 7.20.26
+	original issue
+
+rev B - 10.3.26
+	updated Document Manager license key to 2027
